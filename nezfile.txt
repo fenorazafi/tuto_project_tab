@@ -2,4 +2,7 @@ This is my nez file
 
 It is very short
 
-Linux programs, like this one are very quick. Install Ubuntu MATE on your poor computer, it will like it more than ugly windows ;)
+Linux programs, like this one are very quick. 
+Install Ubuntu MATE on your poor computer, it will like it more than ugly windows ;)
+
+ok
